@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Checkboxes GitHub Solution](https://github.com/MaryAngelique/checkboxes-app)
 - Live Site URL: [Checkboxes Website](https://checkboxes-app.vercel.app/)
 
 ## My process
@@ -36,8 +36,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
