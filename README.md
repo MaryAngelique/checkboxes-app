@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ GitHub Solution](GitHub )
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Checkboxes Website](https://checkboxes-app.vercel.app/)
 
 ## My process
 
